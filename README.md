@@ -6,9 +6,9 @@ Autumn 2023
 
 This is the example code for demonstrating the Observer Design Pattern using the PropertyChangeListener API.
 
-[PropertyChangeListener](https://docs.oracle.com/en/java/javase/21/docs/api/java.desktop/java/beans/PropertyChangeListener.html)
+PropertyChangeListener: (https://docs.oracle.com/en/java/javase/21/docs/api/java.desktop/java/beans/PropertyChangeListener.html)
 
-[PropertyChangeSupport] (https://docs.oracle.com/en/java/javase/21/docs/api/java.desktop/java/beans/PropertyChangeSupport.html)
+PropertyChangeSupport: (https://docs.oracle.com/en/java/javase/21/docs/api/java.desktop/java/beans/PropertyChangeSupport.html)
 
 Included:
 
