@@ -8,4 +8,11 @@ This is the example code for demonstrating the Observer Design Pattern using the
 
 Included:
 
+Time example V1 and V2
+
+    Model, Views, and Controlers
+
+Color example
+
+    Model, Views, and Controlers    
 
