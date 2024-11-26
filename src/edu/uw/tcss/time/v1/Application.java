@@ -1,7 +1,6 @@
 package edu.uw.tcss.time.v1;
 
 import edu.uw.tcss.time.v1.controller.TimeController;
-
 import javax.swing.UIManager;
 import javax.swing.UnsupportedLookAndFeelException;
 
