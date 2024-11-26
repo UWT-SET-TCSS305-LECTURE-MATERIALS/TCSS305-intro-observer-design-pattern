@@ -2,7 +2,7 @@
 
 TCSS 305 - Charles Bryan
 
-Autumn 2023
+Autumn 2024
 
 This is the example code for demonstrating the Observer Design Pattern using the PropertyChangeListener API.
 
